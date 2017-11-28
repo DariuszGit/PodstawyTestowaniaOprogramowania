@@ -1,0 +1,11 @@
+Chrome web engine
+Selenium web drive
+
+Chrome driver
+
+java -Dwebdriver.chrome.driver=sciezka
+ -jar sciezkaselenium.jar -port
+
+
+java -Dwebdriver.chrome.driver=C:\chromedriver.exe -jar C:\selenium-server-standalone-2.52.0.jar -port 4440
+seleniumeasy.com/test
